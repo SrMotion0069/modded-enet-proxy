@@ -1,5 +1,5 @@
-Growtopia enet proxy edited by SrMotion#0001
-Growtopia enet proxy that allows modification and viewing of packets, and creation of new ones.
+Growtopia enet proxy edited by SrMotion#0069
+
 
 How to use
 
@@ -7,6 +7,8 @@ Android: Download apk and install and open proxy app and go to gt and done!
 PC: Open enet-proxy.exe and go to gt! MUST DISABLE ANTIVIRUS BECAUSE PROXY CODE IS HACKING IN GT!
 
 Features
+
+
 Print all variantlists and function calls
 Print all text packets
 Supports modifying, ignoring, and making new packets
